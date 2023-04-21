@@ -1,9 +1,5 @@
-# Data Engineering
-# NYU Tandon School of Engineering
-# Class 1 - HW1
-# Spring 2023
-# Lisha Tong - lt2421@nyu.edu
-
+#Han Wang
+#2023-3-1
 
 from polygon import RESTClient
 import time
